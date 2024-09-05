@@ -1,6 +1,6 @@
-#Sistema de Cadastramento de Estudantes, Livros E Aluguéis Utilizando Express:
+#SISTEMA DE CADASTRAMENTO DE ESTUDANTES, LIVROS E ALUGUÉIS UTILIZANDO EXPRESS:
 
-Este trabalho foi desenvolvido em equipe, onde cada um dos membros ficou responsável por uma parte específica do projeto(livros, estudantes e aluguéis) executado com o framework Express, sendo que eu fiquei com o tópico de gerenciamento de estudantes, cuja função é realizar o cadastro, listagem, atualização e remoção dos estudantes através do seus respectivos IDs;
+Este sistema é parte do trabalho que foi desenvolvido em equipe, onde cada um dos membros ficou responsável por uma parte específica do projeto(livros, estudantes e aluguéis) executado com o framework Express, sendo que eu fiquei com o tópico de gerenciamento de estudantes, cuja função (de todas as partes, como um todo) é de realizar o cadastro, listagem, atualização e remoção dos estudantes através do seus respectivos IDs;
 
 Dentre os principais recursos que foram usados estão o uso dos chamados Status Code, que irão determinar o que aconteceu no processo de cadastramento por meio das mensagens de erro ou de conclusão, por exemplo:
 
